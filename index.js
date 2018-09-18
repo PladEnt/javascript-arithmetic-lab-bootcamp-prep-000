@@ -2,5 +2,7 @@
 function makeInt(n){
   parseInt('13', 10)
 }
-preserveDecimal(n)
+function preserveDecimal(n){
+  
+}
 makeInt(n)
