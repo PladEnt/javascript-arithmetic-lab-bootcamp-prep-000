@@ -1,4 +1,4 @@
-n=13
+
 makeInt(n){
-  
+  parseInt('13', 10)
 }
